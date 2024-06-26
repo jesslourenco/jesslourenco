@@ -5,7 +5,7 @@
 A Software Engineer with a Product background.
 ᕙ(  •̀ ᗜ •́  )ᕗ
 
-🎓 Undergraduate student at the University of Florida majoring in Computer Science
+🎓 Computer Science undergraduate student at the University of Florida
 
 👩🏽‍💻 Knowledgeable in C++, JavaScript, TypeScript, and Python
 
@@ -15,7 +15,6 @@ A Software Engineer with a Product background.
 
 🎮 I love travelling, cycling, and video/board/escape gaming
 
-📚 I'm currently reading The Three-Body problem
 
 ## Profile Insights
 <table border="0" style="border:none;">
