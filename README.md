@@ -1,9 +1,7 @@
 # Hey there, I'm Jess 👋
-A Software Engineer with a Product background.
+A Software Engineer with a Product background. ᕙ(  •̀ ᗜ •́  )ᕗ
 
 <img src="https://images6.fanpop.com/image/photos/43700000/Gif-aggretsuko-43763387-498-278.gif?" align="right" width="450px">
-
-ᕙ(  •̀ ᗜ •́  )ᕗ
 
 🎓 Computer Science undergraduate student at the University of Florida
 
