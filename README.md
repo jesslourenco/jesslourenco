@@ -39,7 +39,7 @@ A Software Engineer with a Product background.
 </a>
 
 ---
-## Let's Connect ⸜(｡˃ ᵕ ˂ )⸝♡
+### Let's Connect ⸜(｡˃ ᵕ ˂ )⸝♡
 [![Linkedin Badge](https://img.shields.io/badge/-Jess%20Lourenco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesslourenco/)](https://www.linkedin.com/in/jesslourenco/)
 
 
