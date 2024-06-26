@@ -1,6 +1,6 @@
 # Hey there, I'm Jess 👋
 
-<img src="https://images6.fanpop.com/image/photos/43700000/Gif-aggretsuko-43763387-498-278.gif?" align="right" max-width="350px">
+<img src="https://images6.fanpop.com/image/photos/43700000/Gif-aggretsuko-43763387-498-278.gif?" align="right" min-width="380px" max-width="400px" width="350px">
 
 A Software Engineer with a Product background.
 ᕙ(  •̀ ᗜ •́  )ᕗ
