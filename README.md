@@ -5,9 +5,9 @@
 
 🎓 Computer Science undergraduate student at the University of Florida
 
-👩🏽‍💻 Knowledgeable in C++, JavaScript, TypeScript, and Python
+👩🏽‍💻 Knowledgeable in Java, C++, JavaScript, TypeScript and Python
 
-🌱 Learning Go web development
+🌱 Learning Go and Java + Spring web development
 
 🚀 Interested in backend engineering, devOps and cybersecurity
 
